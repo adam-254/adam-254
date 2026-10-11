@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22d3ee,45:6366f1,100:a78bfa" alt="Cyan to violet accent line"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=290&color=0:050816,25:101b3d,55:312e81,80:155e75,100:050816&text=VINCENT%20O.%20ADA&fontColor=ffffff&fontSize=64&fontAlignY=39&desc=SOFTWARE%20ENGINEER%20IN%20THE%20MAKING%20%20%E2%80%A2%20%20PRODUCT%20BUILDER&descSize=13&descAlignY=59&animation=fadeIn" alt="Vincent O. Ada — software developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=290&color=0:050816,25:101b3d,55:312e81,80:155e75,100:050816&text=VINCENT%20O.%20ADAM&fontColor=ffffff&fontSize=64&fontAlignY=39&desc=SOFTWARE%20ENGINEER%20IN%20THE%20MAKING%20%20%E2%80%A2%20%20PRODUCT%20BUILDER&descSize=13&descAlignY=59&animation=fadeIn" alt="Vincent O. Adam — software developer"/>
 
 <br/>
 

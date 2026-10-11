@@ -1,150 +1,168 @@
 <div align="center">
 
-<!-- Replace this banner with your own custom banner whenever you like -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090b,35:172554,70:312e81,100:06b6d4&text=Vincent%20O.%20Ada&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20LIFELONG%20LEARNER&descSize=14&descAlignY=63&animation=fadeIn" alt="Vincent O. Ada — Software Developer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22d3ee,45:6366f1,100:a78bfa" alt="Cyan to violet accent line"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=290&color=0:050816,25:101b3d,55:312e81,80:155e75,100:050816&text=VINCENT%20O.%20ADA&fontColor=ffffff&fontSize=64&fontAlignY=39&desc=SOFTWARE%20ENGINEER%20IN%20THE%20MAKING%20%20%E2%80%A2%20%20PRODUCT%20BUILDER&descSize=13&descAlignY=59&animation=fadeIn" alt="Vincent O. Ada — software developer"/>
 
 <br/>
 
-<a href="https://github.com/adam-254">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Turning+ideas+into+working+software.;Building+for+the+web+%26+mobile.;Curious+mind.+Builder's+mentality.;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=780&height=35&lines=I+turn+ideas+into+working+software.;Web+%2B+mobile+%2B+product+thinking.;Built+with+curiosity.+Refined+with+care.;The+next+commit+can+be+better." alt="Animated tagline"/>
 
-<br/>
+<br/><br/>
 
-<p>
-  <a href="https://github.com/adam-254?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore my projects"/></a>
-  <a href="https://github.com/adam-254?tab=followers"><img src="https://img.shields.io/github/followers/adam-254?style=for-the-badge&logo=github&label=FOLLOW&color=0891b2" alt="GitHub followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=adam-254&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+<a href="https://github.com/adam-254?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-0b1220?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=111827" alt="Explore projects"/></a>
+<a href="https://github.com/adam-254?tab=followers"><img src="https://img.shields.io/github/followers/adam-254?style=for-the-badge&logo=github&label=DEVELOPERS%20FOLLOWING&color=312e81" alt="GitHub followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=adam-254&style=for-the-badge&color=155e75&label=YOU%20ARE%20VISITOR" alt="Profile visits"/>
 
-**I’m Vincent O. Adam** — a software developer who enjoys turning ideas into useful, thoughtfully designed digital products.
+<br/><br/>
 
-*I don’t just want to write code. I want to build things people can use.*
+<em>Independent builder. Curious engineer. Focused on useful software.</em>
 
 </div>
 
 ---
 
-## ◈ About me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-```text
-const vincent = {
-  role: "Software Developer & Product Builder",
-  focus: ["Web Development", "Mobile Applications", "Product Engineering"],
-  mindset: ["Build with purpose", "Keep learning", "Improve continuously"],
-  currentMission: "Turning ambitious ideas into reliable, user-friendly software"
-};
-```
+## `01` / The person behind the commits
 
-I enjoy working across the product-building process: shaping an idea, designing the experience, implementing the features, fixing the details, and improving the result. My repositories span web applications, mobile apps, media experiences, productivity tools, and other experiments driven by curiosity.
+Hey, I'm **Vincent O. Adam** — a software developer who likes taking an idea from *“what if?”* to something people can actually use.
 
-I believe good software should be **useful, intuitive, reliable, and enjoyable to use**. I’m always learning, exploring better approaches, and building projects that stretch my skills.
+I build across **web and mobile**, explore different product ideas, and learn by shipping real projects. I care about the details users notice: a clear interface, a smooth flow, sensible performance, and features that solve an actual problem.
 
-- ◈ I build projects to solve real problems and explore new ideas.
-- ◈ I care about clean interfaces, practical functionality, and performance.
-- ◈ I enjoy learning by building, testing, refining, and shipping.
-- ◈ I’m open to connecting with developers, teams, and people building meaningful products.
+I’m not here to collect technologies just to list them. I’m here to understand them, put them to work, and keep getting better at building software.
 
----
+</td>
+<td width="42%" valign="top">
 
-## ◈ My development universe
+<img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| `01` — BUILD | `02` — REFINE | `03` — SHIP |
-|:---:|:---:|:---:|
-| Turn ideas into products | Improve UX, quality & performance | Share useful software with people |
-| <img src="https://img.shields.io/badge/IDEAS-Planning-172554?style=flat-square" alt="Ideas"/> | <img src="https://img.shields.io/badge/CRAFT-Iteration-312e81?style=flat-square" alt="Craft"/> | <img src="https://img.shields.io/badge/IMPACT-Delivery-155e75?style=flat-square" alt="Impact"/> |
+<img src="https://img.shields.io/badge/MINDSET-Build%20with%20purpose-0b1220?style=flat-square&labelColor=312e81" alt="Build with purpose"/>
+<img src="https://img.shields.io/badge/PROCESS-Learn%20%2F%20Ship%20%2F%20Improve-0b1220?style=flat-square&labelColor=155e75" alt="Learn ship improve"/>
+<img src="https://img.shields.io/badge/FOCUS-Useful%20products-0b1220?style=flat-square&labelColor=4338ca" alt="Useful products"/>
 
 </div>
 
-## ◈ Tech I work with
+## `02` / What I bring to the build
 
-<!-- Keep this list aligned with technologies you genuinely use and can discuss. -->
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ◉ Product thinking
+
+I care about the problem, the user journey, and whether the finished feature makes sense.
+
+</td>
+<td width="33%" valign="top">
+
+### ◈ Engineering
+
+I enjoy connecting interfaces, application logic, APIs, data, and the little details that make a product work.
+
+</td>
+<td width="33%" valign="top">
+
+### ◎ Iteration
+
+Build the first version. Test it. Find the rough edges. Improve it. Repeat.
+
+</td>
+</tr>
+</table>
+
+## `03` / Tools in my workshop
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,reactnative,expo,nodejs,python,php,html,css,tailwind,firebase,git,github,vscode&perline=8" alt="Technologies: TypeScript, JavaScript, React, Next.js, React Native, Expo, Node.js, Python, PHP, HTML, CSS, Tailwind, Firebase, Git, GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,reactnative,expo,nodejs,python,php,html,css,tailwind,firebase,git,github,vscode&perline=8" alt="Technology icons"/>
+
+<sub>Technologies represented here are based on my project work; this isn't intended as a proficiency ranking.</sub>
 
 </div>
 
----
+## `04` / Selected builds
 
-## ◈ Selected work
+<sub>A small window into a wider collection of experiments and projects. Start with these public repositories.</sub>
 
 <div align="center">
 
 <a href="https://github.com/adam-254/TVCW-media-player">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adam-254&repo=TVCW-media-player&theme=tokyonight&hide_border=true" alt="TVCW-media-player repository card"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-254&repo=TVCW-media-player&theme=tokyonight&hide_border=true&border_radius=14" alt="TVCW-media-player repository card"/>
+</a><a href="https://github.com/adam-254/Newsflash">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-254&repo=Newsflash&theme=tokyonight&hide_border=true&border_radius=14" alt="Newsflash repository card"/>
 </a>
-<a href="https://github.com/adam-254/Newsflash">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adam-254&repo=Newsflash&theme=tokyonight&hide_border=true" alt="Newsflash repository card"/>
-</a>
+
 <a href="https://github.com/adam-254/CVCraft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adam-254&repo=CVCraft&theme=tokyonight&hide_border=true" alt="CVCraft repository card"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-254&repo=CVCraft&theme=tokyonight&hide_border=true&border_radius=14" alt="CVCraft repository card"/>
+</a><a href="https://github.com/adam-254/Simple-Weather-App">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-254&repo=Simple-Weather-App&theme=tokyonight&hide_border=true&border_radius=14" alt="Simple Weather App repository card"/>
 </a>
-<a href="https://github.com/adam-254/Simple-Weather-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adam-254&repo=Simple-Weather-App&theme=tokyonight&hide_border=true" alt="Simple-Weather-App repository card"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/adam-254?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-Explore_the_code-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9" alt="View all repositories"/>
-</a>
-
-</div>
-
----
-
-## ◈ GitHub activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adam-254&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-254&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=adam-254&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adam-254&bg_color=0d1117&color=67e8f9&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=THE%20BUILD%20LOG" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/adam-254?tab=repositories"><img src="https://img.shields.io/badge/↗%20BROWSE%20ALL%20REPOSITORIES-0b1220?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Browse all repositories"/></a>
 
 </div>
 
+## `05` / Activity, not noise
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adam-254&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true" alt="GitHub overview statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-254&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=8" alt="Most-used repository languages"/>
+
+<br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=adam-254&theme=tokyonight&hide_border=true&border_radius=14" alt="Contribution streak"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adam-254&bg_color=0d1117&color=67e8f9&line=6366f1&point=e0f2fe&area=true&hide_border=true&custom_title=THE%20WORK%20IN%20PROGRESS" alt="GitHub contribution graph"/>
+
+</div>
+
+<sub>Stats and contribution visualizations are provided by third-party services and may occasionally be unavailable or delayed. Language charts reflect repository contents, not necessarily skill level.</sub>
+
 ---
 
-## ◈ Beyond the code
+## `06` / The direction
 
 ```text
-Curiosity  ━━━━━━━━━━━━━━━━━━━━  Always on
-Learning   ━━━━━━━━━━━━━━━━━━━━  Continuous
-Building   ━━━━━━━━━━━━━━━━━━━━  In progress
-Improving  ━━━━━━━━━━━━━━━━━━━━  Every iteration
+[ IDEA ]  ──────►  [ BUILD ]  ──────►  [ TEST ]
+                                          │
+[ LEARN ]  ◄──────  [ IMPROVE ]  ◄────────┘
 ```
 
-I’m interested in the full journey from an early idea to a product that feels ready for real people. Every project is an opportunity to learn something new, solve a different problem, and become a better developer.
+I want to keep building products that are useful beyond the code editor — applications that feel considered, solve real needs, and get better through feedback. There’s always another skill to sharpen, another problem worth exploring, and another version to make better.
 
-## ◈ Let’s connect
+## `07` / Open to good conversations
 
 <div align="center">
 
-Have an interesting idea, a project to collaborate on, or an opportunity to discuss? Feel free to reach out.
+**Have a project idea, a collaboration in mind, or an opportunity worth discussing? Let's connect.**
 
-<a href="https://github.com/adam-254">
-  <img src="https://img.shields.io/badge/GitHub-adam--254-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<!-- Add verified links for LinkedIn, portfolio, or email if you want them shown here. -->
+<br/>
+
+<a href="https://github.com/adam-254"><img src="https://img.shields.io/badge/GITHUB-Follow%20the%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://github.com/adam-254?tab=repositories"><img src="https://img.shields.io/badge/CODE-Explore%20my%20repos-312e81?style=for-the-badge&logo=git&logoColor=white" alt="Explore code"/></a>
+
+<!-- Add your verified portfolio, LinkedIn, or professional email links here when ready. -->
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:312e81,100:09090b" width="100%" alt="Decorative gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050816,35:155e75,70:312e81,100:050816" alt="Gradient footer"/>
 
-**BUILD WITH PURPOSE · STAY CURIOUS · KEEP SHIPPING**
+### `MAKE IT USEFUL. MAKE IT THOUGHTFUL. MAKE IT BETTER.`
 
-<sub>Thanks for stopping by. Take a look around, explore a repository, and let's build something meaningful.</sub>
+<sub>Thanks for visiting my corner of GitHub. — Vincent O. Ada · <a href="https://github.com/adam-254">@adam-254</a></sub>
 
 </div>
